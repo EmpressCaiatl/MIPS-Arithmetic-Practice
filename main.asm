@@ -1,5 +1,5 @@
 ###########################################################################
-#  Name: Isabella Maffeo
+#  Name: Isabella
 #  Assignment: MIPS #1
 #  Description: Calculate the area of each trapezoid. Read from arrays of
 #				size word. Store results into word-sized array. 
